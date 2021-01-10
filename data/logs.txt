@@ -1,0 +1,5 @@
+#1
+La libreria icons helper tiene un bug, no puedes usar la version 
+pero puedes agregar el link directo al directorio de github, de 
+otra forma, no va a funcionar. Creo que es por los iconos que posee.
+
